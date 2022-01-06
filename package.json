@@ -1,0 +1,20 @@
+{
+  "name": "snippets-generator",
+  "version": "1.0.0",
+  "description": "Project to generate snippets from json file to vim snippets (UltiSnips) files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "snippets",
+    "vim",
+    "ultisnips",
+    "snippets-generator"
+  ],
+  "author": "Sobhan Bera",
+  "license": "MIT",
+  "dependencies": {
+    "write": "^2.0.0"
+  }
+}
